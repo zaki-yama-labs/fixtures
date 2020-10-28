@@ -9,16 +9,16 @@
       {
         "name": "README.md",
         "path": "README.md",
-        "sha": "21ba80389ad8ce1fc26849f9d3b2c6ca961db4c6",
-        "size": 29,
+        "sha": "f9a7485adca995fa82884eded6d912aef3e5e3ae",
+        "size": 37,
         "url": "https://api.github.com/repos/zaki-yama-labs/octokit-fixtures-playground/contents/README.md?ref=main",
         "html_url": "https://github.com/zaki-yama-labs/octokit-fixtures-playground/blob/main/README.md",
-        "git_url": "https://api.github.com/repos/zaki-yama-labs/octokit-fixtures-playground/git/blobs/21ba80389ad8ce1fc26849f9d3b2c6ca961db4c6",
+        "git_url": "https://api.github.com/repos/zaki-yama-labs/octokit-fixtures-playground/git/blobs/f9a7485adca995fa82884eded6d912aef3e5e3ae",
         "download_url": "https://raw.githubusercontent.com/zaki-yama-labs/octokit-fixtures-playground/main/README.md",
         "type": "file",
         "_links": {
           "self": "https://api.github.com/repos/zaki-yama-labs/octokit-fixtures-playground/contents/README.md?ref=main",
-          "git": "https://api.github.com/repos/zaki-yama-labs/octokit-fixtures-playground/git/blobs/21ba80389ad8ce1fc26849f9d3b2c6ca961db4c6",
+          "git": "https://api.github.com/repos/zaki-yama-labs/octokit-fixtures-playground/git/blobs/f9a7485adca995fa82884eded6d912aef3e5e3ae",
           "html": "https://github.com/zaki-yama-labs/octokit-fixtures-playground/blob/main/README.md"
         }
       }
@@ -62,7 +62,7 @@
     "path": "/repos/zaki-yama-labs/octokit-fixtures-playground/contents/README.md",
     "body": "",
     "status": 200,
-    "response": "# octokit-fixtures-playground",
+    "response": "# octokit-fixtures-playground\n\nhello\n",
     "reqheaders": {
       "accept": "application/vnd.github.v3.raw",
       "authorization": "token 0000000000000000000000000000000000000000",
@@ -74,7 +74,7 @@
       "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset",
       "cache-control": "private, max-age=60, s-maxage=60",
       "connection": "close",
-      "content-length": "29",
+      "content-length": "37",
       "content-security-policy": "default-src 'none'",
       "content-type": "application/vnd.github.v3.raw; charset=utf-8",
       "date": "Tue, 10 Oct 2017 16:00:00 GMT",
